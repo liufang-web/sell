@@ -1,5 +1,7 @@
 <template>
-    $END$
+    <div class="goods-list-item">
+      <img src="" alt="">
+    </div>
 </template>
 
 <script>

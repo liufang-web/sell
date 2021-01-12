@@ -1,5 +1,7 @@
 <template>
-    $END$
+    <div id="show">
+      <h2>购物车</h2>
+    </div>
 </template>
 
 <script>
